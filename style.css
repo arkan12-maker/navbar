@@ -94,4 +94,18 @@ input{
    
 }
 
-   
+.btn{
+    background-color: gainsboro ;
+border-radius: 5px;   
+
+color: greenyellow;
+padding:5px 5px 5px 5px;
+}
+
+.btn:hover  {
+background-color: gainsboro ;
+border-radius: 5px;   
+
+color: greenyellow;
+
+}
