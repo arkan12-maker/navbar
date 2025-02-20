@@ -71,15 +71,27 @@ input{
 }
 
 .content{
-    
+    /* display: none; */
     width: 1000px;
     height: 600px;
-    background-color: white;
+;
     border-radius: 30px;
 }
 
 
 .container{
+    margin-left:20px;
     margin-top: 150px;
     justify-self: center;
 }
+
+.foto{
+    margin-top: -100px;
+    margin-left: 378px;
+    width: 220px;
+    height: 280px;
+    position: absolute;
+   
+}
+
+   
