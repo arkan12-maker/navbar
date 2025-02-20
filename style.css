@@ -71,7 +71,7 @@ input{
 }
 
 .content{
-    /* display: none; */
+    display: none;
     width: 1000px;
     height: 600px;
 ;
